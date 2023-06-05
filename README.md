@@ -23,7 +23,7 @@ Estou aberto a perguntas, críticas construtivas e sugestões.
 Se me der oportunidade posso ser seu programador.
 
 Me siga nas redes sociais:
-<a href="https://instagram.com/ricardo_alecrim?igshid=MzNlNGNkZWQ4Mg==" target="blanked"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="90px"></a>
+<a href="https://instagram.com/ricardo_alecrim?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="90px"></a>
 
 
 [![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=RicardodeOliveiraAlecrim)](https://github.com/anuraghazra/github-readme-stats)
